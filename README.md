@@ -19,7 +19,7 @@ Hit cwebp-windows.exe -h to know more.
 
 ## Linux
 ### Dependencies
-[SDL2] (https://wiki.libsdl.org/Installation) [SDL2_Image] (https://www.libsdl.org/projects/SDL_image/)
+[SDL2](https://wiki.libsdl.org/Installation) [SDL2_Image](https://www.libsdl.org/projects/SDL_image/)
 
 ### To convert between formats like .png, .jpg, .bmp
 > ./imgconverter srcimag.jpg -o dstimage.png
