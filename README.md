@@ -1,5 +1,6 @@
 # imageconverter
 Just a toy to convert common Image formats ( *.jpg, *.png, *.bmp, *.webp )
+cwebp binaries are from google am too lazy to usage APIs so just shared directly.
 
 # Usage:
 ## Windows
