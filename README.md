@@ -1,6 +1,6 @@
 # imageconverter
 Just a toy to convert common Image formats ( *.jpg, *.png, *.bmp, *.webp )
-cwebp binaries are from google am too lazy to usage APIs so just shared directly.
+cwebp binaries are from google am too lazy to use APIs so just shared directly.
 
 # Usage:
 ## Windows
@@ -16,7 +16,7 @@ Hit cwebp-windows.exe -h to know more.
 ### To convert webp to jpg/png/bmp
 >dwebp-windows.exe srcimage.jpg -o dstimage.webp
 
-Hit cwebp-windows.exe -h to know more.
+Hit dwebp-windows.exe -h to know more.
 
 ## Linux
 ### Dependencies
@@ -33,7 +33,7 @@ Hit cwebp-linux -h to know more.
 ### To convert webp to jpg/png/bmp
 >dwebp-linux srcimage.jpg -o dstimage.webp
 
-Hit cwebp-linux -h to know more.
+Hit dwebp-linux -h to know more.
 
 # Compilation
 If precompiled binaries doesn't suits you :)
